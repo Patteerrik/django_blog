@@ -1,6 +1,6 @@
 ---
-name: User story template
-about: Custom template for project user stories
+name: 'USER STORY: View comments'
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
